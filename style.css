@@ -1,0 +1,116 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.orange-color{
+
+    color: orange;
+}
+
+section{
+
+        display: flex;
+        margin-bottom: 70px;
+}
+
+.fifty-percent{
+
+      width: 50%;
+     padding-left: 8%;
+}
+
+.fifty-percent img{
+        width: 70%;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 40px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
+.about-me{
+
+    margin-top: 25px;
+    padding-left: 80px;
+    text-align: justify;
+    padding-right: 200px;
+}
+.fifty-percent .person-img{
+
+    width:40%;
+    padding-left: 15%;
+    padding-top: 50px;
+}
+.middle-banner{
+
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 100px;
+    margin: 0%;
+    
+}
+.Recipies{
+
+    text-align: center;
+    margin-top: 70px;
+}
+.Recipies-all{
+
+    text-align: justify;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.Recipie-Title{
+        display: flex;
+}
+.thirty-percent{
+
+    width: 28%;
+   margin-left: 5%;
+
+   box-shadow: 20px 20px 40px gray;
+   border-radius: 30px;
+   padding-left: 20px;
+
+}
+.thirty-percent img{
+    width: 90%;
+    padding-top: 20px;
+}
+
+.followers{
+
+    display: flex;
+    margin-top: 200px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    margin: 100px;
+}
+.followers-30{
+    width: 28%;
+    margin-left: 17% ;
+    font-weight: 900;
+    font-size: larger;
+}
+.footer{
+     background-color:black;
+     height: 300px;
+     width: 100%;
+     color: gray;
+     text-align: center;
+
+}
+.footer h1{
+
+    padding-top: 60px;
+}
+.footer small{
+
+    color: white;
+}
+ 
